@@ -37,8 +37,8 @@
 │                                                                             │
 │   SYSTEM BOOT: OMAR_VALDEZ_PROFILE                                          │
 │   STATUS     : ONLINE                                                       │
-│   ROLE       : DATA ARCHITECT / AI AGENTS ENGINEER / AUTOMATION BUILDER      │
-│   MISSION    : TURN DATA CHAOS INTO OPERATIONAL INTELLIGENCE                 │
+│   ROLE       : DATA ARCHITECT / AI AGENTS ENGINEER / AUTOMATION BUILDER     │
+│   MISSION    : TURN DATA CHAOS INTO OPERATIONAL INTELLIGENCE                │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
